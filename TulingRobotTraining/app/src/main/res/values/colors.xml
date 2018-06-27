@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="not_pressed_bg">#3869ae</color>
+    <color name="pressed_bg">#1f3d66</color>
+    <color name="not_pressed">#4570a9</color>
+    <color name="black">#000000</color>
+    <color name="colordarkgray">#4e4d4d</color>
+    <color name="textCursor">#4299c4</color>
+</resources>
