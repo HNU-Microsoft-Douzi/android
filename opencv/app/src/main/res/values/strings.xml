@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">opencv</string>
+    <string name="click_me">click_me</string>
+    <string name="todo">TODO</string>
+</resources>

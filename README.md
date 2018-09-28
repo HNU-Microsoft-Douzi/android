@@ -36,6 +36,20 @@
 
 和上面一个一样，是个练手的demo，原文档这里就不贴出来了，也是github上的，可以直接去MarketPlace自己查找，练习的内容是自定义View绘制的关于Paint的API，定制性很强，要记得也很多。
 
+## PracticeDraw3
+
+这个demo是关于文字绘制的，也就是说，是canvas的drawText属性相关的paint的API。
+
+## opencv
+
+这个demo就不得不说一下了，涉及到opencv这个开源库的加载，过程非常麻烦，我还是大致回想总结一下：
+
+- 先import module导入opencv sdk中的java目录
+- 然后通过project structure中的dependency中导入opencv的模块
+- 找到OpenCV-android-sdk->sdk->native->libs中的所有文件导入到app->libs目录下
+- 然后在app的build.gradle中的dependencies中加入一些声明，声明文件在demo中找，都有注明
+- 在使用的页面中直接进行静态注册
+
 
 > 创建时间：2018年6月5日
 
